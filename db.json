@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Breakfast",
+      "amount": 15.2
+    },
+    {
+      "id": 2,
+      "name": "Lunch",
+      "amount": 24.2
+    },
+    {
+      "id": 3,
+      "name": "Dinner",
+      "amount": 45.2
+    },
+    {
+      "id": 4,
+      "name": "Car Rental",
+      "amount": 100.2
+    },
+    {
+      "id": 1,
+      "name": "Breakfast",
+      "amount": 18.2
+    },
+    {
+      "id": 2,
+      "name": "Lunch",
+      "amount": 33.2
+    },
+    {
+      "id": 2,
+      "name": "Lunch",
+      "amount": 14.2
+    }
+  ]
+}
