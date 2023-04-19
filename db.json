@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Breakfast",
       "amount": 15.2,
-      "overExpense": false,
+      "overExpense": false
     },
     {
       "id": 2,
