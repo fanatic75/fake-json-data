@@ -16,36 +16,31 @@
       "id": 3,
       "name": "Dinner",
       "amount": 45.2,
-            "overExpense": false
-
+      "overExpense": false
     },
     {
       "id": 4,
       "name": "Car Rental",
       "amount": 100.2,
-                  "overExpense": false
-
+      "overExpense": false
     },
     {
       "id": 1,
       "name": "Breakfast",
       "amount": 88.2,
-                  "overExpense": true
-
+      "overExpense": true
     },
     {
       "id": 2,
       "name": "Lunch",
       "amount": 33.2,
-                  "overExpense": false
-
+      "overExpense": false
     },
     {
       "id": 2,
       "name": "Lunch",
       "amount": 14.2,
-                  "overExpense": false
-
+      "overExpense": false
     }
   ]
 }
